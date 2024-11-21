@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\frametoframe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|solutionrelative:frametoframe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\frametoframe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|solutionrelative:frametoframe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\frametoframe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|solutionrelative:frametoframe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|c:\\users\\temp\\desktop\\github\\frametoframe\\frametoframe\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|solutionrelative:frametoframe\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\frametoframe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|solutionrelative:frametoframe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\frametoframe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|solutionrelative:frametoframe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\frametoframe\\formutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|solutionrelative:frametoframe\\formutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\frametoframe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F82E8D-5FC0-42B8-8A44-EA3FE663C73E}|FrameToFrame\\FrameToFrame.csproj|solutionrelative:frametoframe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Form2.cs",
+              "RelativeDocumentMoniker": "FrameToFrame\\Form2.cs",
+              "ToolTip": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Form2.cs",
+              "RelativeToolTip": "FrameToFrame\\Form2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:01:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Form2.cs",
+              "RelativeDocumentMoniker": "FrameToFrame\\Form2.cs",
+              "ToolTip": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Form2.cs [Design]",
+              "RelativeToolTip": "FrameToFrame\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:05:22.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\FormUtilities.cs",
+              "RelativeDocumentMoniker": "FrameToFrame\\FormUtilities.cs",
+              "ToolTip": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\FormUtilities.cs",
+              "RelativeToolTip": "FrameToFrame\\FormUtilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:52:35.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\DatabaseHandler.cs",
+              "RelativeDocumentMoniker": "FrameToFrame\\DatabaseHandler.cs",
+              "ToolTip": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\DatabaseHandler.cs",
+              "RelativeToolTip": "FrameToFrame\\DatabaseHandler.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwC4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:25:04.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Form1.cs",
+              "RelativeDocumentMoniker": "FrameToFrame\\Form1.cs",
+              "ToolTip": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Form1.cs",
+              "RelativeToolTip": "FrameToFrame\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:58:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Program.cs",
+              "RelativeDocumentMoniker": "FrameToFrame\\Program.cs",
+              "ToolTip": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Program.cs",
+              "RelativeToolTip": "FrameToFrame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:58:08.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FrameToFrame\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Form1.Designer.cs",
+              "RelativeToolTip": "FrameToFrame\\Form1.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:05:26.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Form1.cs",
+              "RelativeDocumentMoniker": "FrameToFrame\\Form1.cs",
+              "ToolTip": "C:\\Users\\TEMP\\Desktop\\github\\FrameToFrame\\FrameToFrame\\Form1.cs [Design]",
+              "RelativeToolTip": "FrameToFrame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:56:51.736Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
